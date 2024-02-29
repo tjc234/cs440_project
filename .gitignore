@@ -1,0 +1,117 @@
+# Unity generated 
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+[Mm]emoryCaptures/
+
+# OS generated
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio / Rider / MonoDevelop 
+
+[Ee]xported[Oo]bj/
+.vs/
+.vscode/
+/*.user
+/*.userprefs
+/*.unityproj
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.userprefs
+/*.idea/
+/*.mdb
+/.idea/
+.ReSharper*/
+.jupyter/
+.ipynb_checkpoints
+.history/
+.venv/
+.env/
+.spyderproject
+.spyproject
+.ropeproject
+
+# Builds --------------------
+
+# Exclude all build folders
+/[Bb]uild*/
+/[Bb]uilds*/
+
+# Directory for a cross-platform solution
+[Oo]ut/
+
+# Misc --------------------
+
+# Auto-generated Jetbrains Rider files
+.idea/
+
+# User-specific stuff:
+*.csproj.user
+*.pubxml.user
+*.user
+*.unoproj.user
+*.swp
+*.swo
+*.sln.docstates
+
+# macOS specific
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Unity & VS Code 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Known Folders
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore all auto generated files
+sysinfo.txt
